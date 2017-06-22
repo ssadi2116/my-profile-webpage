@@ -462,6 +462,41 @@
           </div>
         </section>
         <!--/.CONTACT END-->
+	
+	
+	
+	  <!--FOOTER-->
+        <footer>
+          <div class="footer-top">
+            <ul class="socials">
+              <li class="facebook">
+                <a href="https://www.facebook.com/saiadityas" data-hover="Facebook">Facebook</a>
+              </li>
+              <li class="twitter">
+                <a href="https://twitter.com/" data-hover="Twitter">Twitter</a>
+              </li>
+              <li class="gplus">
+                <a href="https://plus.google.com/" data-hover="Google +">Google +</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer-bottom">
+            <div class="container">
+              <div class="row">
+               &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp 
+               &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+			   &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp 
+               &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp   &nbsp &nbsp&nbsp 
+			   <img src="images/logo-bottom.png" alt="logo bottom" class="center-block" align="middle" />
+				 <p align="middle" class="copyright">Copyright 2017. All rights reserved by Mr. Sai Aditya Sandupatla.	</p>
+                   
+              </div>
+            </div>
+          </div>
+        </footer>
+        <!--/.FOOTER-END-->
+	
         
      
       <!--/.CONTENT END-->
