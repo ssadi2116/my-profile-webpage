@@ -136,6 +136,119 @@
 
       
 
+
+	
+        <!--HOBBIES-->
+        <section class="white-bg" id="services">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span style="font-size: 140%">Hobbies</span>
+                </h3>
+                <p class="content-detail" style="font-size:100%;">
+				A Man without a hobby is a Man without a passion in his life. Hobbies rejuvenate us. They bring us out of the blue times. Here are a few of my hobbies...
+                </p>
+              </div>
+              <div class="col-md-9 content-right">
+                <div class="row">
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          c
+                        </h3>
+                        <p class="head-sm">
+                          NUMISMATICS
+                        </p>
+                        <p class="text-grey">
+                          I love collecting coins and notes of various countries. I've been into numismatics for the past 7 years and collected currencies of 50 different countries!!!
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          b
+                        </h3>
+                        <p class="head-sm">
+                          ART AND CRAFT
+                        </p>
+                        <p class="text-grey">
+                          I was fond of art and craft since my childhood. Origami has always been my favourite.
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          d
+                        </h3>
+                        <p class="head-sm">
+                          ALGORITHMS AND PUZZLES
+                        </p>
+                        <p class="text-grey">
+                          Being a coding enthusiast, algorithms excite me a lot. I always try to solve some or the other mindbender. 
+                        </p>
+                      </div>
+                    </li>
+                  </ul>
+
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <p class="icon-use">
+                          f
+                        </p>
+                        <p class="head-sm">
+                          MUSIC
+                        </p>
+                        <p class="text-grey">
+                          I love listening to music in my leisure time. There is no specific music that interests me more. I'm just fond of all kinds of music.
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          m
+                        </h3>
+                        <p class="head-sm">
+                         SCIENCE AND TECHNOLOGY
+                        </p>
+                        <p class="text-grey">
+                          Being a science student, I have always been fascinated by the wonders of nature and the scientific explanations behind them.
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          p
+                        </h3>
+                        <p class="head-sm">
+                          READING
+                        </p>
+                        <p class="text-grey">
+                          I'm a regular reader and a fiction lover.
+                        </p>
+                      </div>
+                    </li>
+                  </ul>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.HOBBIES END-->
+
+
+
        
     
         <!--SKILLS-->
