@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>SAI ADITYA SANDUPATLA</title>
+    
+ 
+   <!--styles-->
+    <link href="css/style.css" rel="stylesheet">
+    
+   
+    
+    <!--fonts -->
+	
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+    
+    
+  </head>
+  <body>
+    
+   
+    
+    <!--CONTENT WRAP-->
+    <div class="content-wrap">
+      <!--CONTENT-->
+      <div class="content">
+      
+	  
+	  
+	  
+        <section id="home">
+          <div class="container">
+            <div class="row">
+              <div class="wrap-hero-content">
+                  <div class="hero-content">
+                    <h1>Hello
+					
+					</h1>
+	
+               <br>
+                    <span class="typed"></span>
+                  </div>
+              </div>
+              <div class="mouse-icon margin-20">
+                <div class="scroll"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+       
+
+        <!--ABOUT-->
+        <section id="about">
+          <div class="col-md-6 col-xs-12 no-pad">
+            <div class="bg-about"></div>
+          </div>
+          <div class="col-md-6 col-sm-12 col-xs-12 white-col">
+            <div class="row">
+              <!--OWL CAROUSEL2-->
+              <div class="owl-carousel2">
+                <div class="col-md-12">
+                  <div class="wrap-about">
+                    <div class="w-content">
+                      <p class="head-about" style="font-size:100%;">
+                        Welcome to my profile!!! I am a coding enthusiast and an amateur web-developer. I believe that anything can be achieved by
+						confidence and determination. So keep going...Set your goals high...never give up!!!
+                      </p>
+                      
+                      <h5 class="name" style="font-size:120%;">
+                        Sai Aditya Sandupatla
+                      </h5>
+                      <img alt="signature" src="images/signature.png" style="height: 100px; width: 120px;">
+                    </div>
+                  </div>
+                </div>
+              <br>
+					<br>
+					<br>
+					<br>
+					<br>
+                <div class="col-md-12 col-sm-12 col-xs-12 white-col">
+                  <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12">
+                      <div class="wrap-about">
+					
+	
+                        <table class="w-content">
+                          <tr>
+                            <td class="title">Name </td>
+                            <td class="break">:</td>
+                            <td> Sai Aditya Sandupatla</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Phone </td>
+                            <td class="break">:</td>
+                            <td> +91-7386747417</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Email </td>
+                            <td class="break">:</td>
+                            <td> ssaditya2116@gmail.com</td>
+                          </tr>
+						  <tr>
+                            <td class="title">D.O.B</td>
+                            <td class="break">:</td>
+                            <td> 9th July,1997</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Address </td>
+                            <td class="break">:</td>
+                            <td> T-107, Hostel Block-4, Visvesvaraya National Institute of Technology, Nagpur</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Github </td>
+                            <td class="break">:</td>
+                            <td> ssadi2116</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Hackerrank </td>
+                            <td class="break">:</td>
+                            <td> ss_adi</td>
+                          </tr>
+                          
+                        </table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!--/.OWL CAROUSEL2 END-->
+            </div>
+          </div>
+        </section>
+        <!--/.ABOUT END-->
+
+      
+
+       
+    
+        <!--SKILLS-->
+        <section class="white-bg" id="skill">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span style="font-size:140%">Software Skills</span>
+                </h3>
+                <p class="content-detail">
+                  Being regular at coding, I've developed skill in few of the software technologies.
+                </p>
+              </div>
+              <div class="col-md-9 content-right">
+                <!--SKILLST-->
+                <div class="skillst">
+                  <div class="skillbar" data-percent="100%">
+                    <div class="title head-sm">
+                      HTML 5
+                    </div>
+                    <div class="count-bar">
+                      <div class="count"></div>
+                    </div>
+                  </div>
+                  <div class="skillbar" data-percent="100%">
+                    <div class="title head-sm">
+                      CSS 
+                    </div>
+                    <div class="count-bar">
+                      <div class="count"></div>
+                    </div>
+                  </div>
+                  <div class="skillbar" data-percent="100%">
+                    <div class="title head-sm">
+                      JAVA and PYTHON
+                    </div>
+                    <div class="count-bar">
+                      <div class="count"></div>
+                    </div>
+                  </div>
+                  <div class="skillbar" data-percent="100%">
+                    <div class="title head-sm">
+                      PHP
+                    </div>
+                    <div class="count-bar">
+                      <div class="count"></div>
+                    </div>
+                  </div>
+                  <div class="skillbar" data-percent="95%">
+                    <div class="title head-sm">
+                      C Language
+                    </div>
+                    <div class="count-bar">
+                      <div class="count"></div>
+                    </div>
+                  </div>
+                </div>
+                <!--/.SKILLST END-->
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.SKILLS END-->
+
+        <!--EDUCATION-->
+        <section class="grey-bg" id="education">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span style="font-size:140%">Education</span>
+                </h3>
+               
+              </div>
+              <div class="col-md-9 content-right">
+                <div class="row">
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              2015 - 2019(EXPECTED COMPLETION)
+                            </h2>
+                            <p class="job">
+                              B.Tech in COMPUTER SCIENCE AND ENGINEERING
+                            </p>
+                            <p class="company">
+                              VISVESVARAYA NATIONAL INSTITUE OF TECHNOLOGY, NAGPUR
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+                                The course offers a gradutaion in Computer Science. VNIT Nagpur is on of the most reputed colleges of the country.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              2013 - 2015
+                            </h2>
+                            <p class="job">
+                              XI-XII (INTERMEDIATE)
+                            </p>
+                            <p class="company">
+                              VIJAYARATNA JUNIOR COLLEGE
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+                                Vijayaratna is the abode for students of IIT Ramaiah study circle. It is one of the oldest and most successful IIT coaching institue in state.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              2012 - 2013
+                            </h2>
+                            <p class="job">
+                              X (MATRICULATE) 
+                            </p>
+                            <p class="company">
+                              DR KKR's GOWTHAM CONCEPT SCHOOL
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+                                CBSE cirriculum along with coaching for national-level competetive exams. 
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                   
+                  </ul>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.EDUCATION END-->
+
+     
+
+       
+
+        <!--CONTACT-->
+        <section id="contact" class="white-bg">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span>Contact</span>
+                </h3>
+                <p class="content-detail">
+                  Feel free to contact me for any queries. If you find my profile interesting or would like to suggest any changes, please write down below. </p>
+
+              </div>
+              <div class="col-md-9 content-right">
+                <form>
+                  <div class="group">
+                    <input required="" type="text"><span class="highlight"></span><span class="bar"></span><label>Name</label>
+                  </div>
+                  <div class="group">
+                    <input required="" type="email"><span class="highlight"></span><span class="bar"></span><label>Email</label>
+                  </div>
+                  <div class="group">
+                    <textarea required=""></textarea><span class="highlight"></span><span class="bar"></span><label>Message</label>
+                  </div>
+                  <input id="sendMessage" name="sendMessage" type="submit" value="Send Message">
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.CONTACT END-->
+        
+     
+      <!--/.CONTENT END-->
+      </div>
+    <!--/.CONTENT-WRAP END-->
+    </div>
+    
+
+  </body>
+</html>
