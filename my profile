@@ -430,6 +430,51 @@
 
      
 
+<!--TESTIMONIAL-->
+        <section id="testimonial">
+          <div class="container">
+            <div class="row wrap-testimonial">
+              <div class="col-md-10 col-md-offset-1">
+                <div class="owl-carousel">
+                  <div class="list-testimonial">
+                    <div class="content-testimonial">
+                      <h3 class="testi">
+                        “ Aditya is very hardworking and fun-loving person. He always makes the job seem easy and smooth. The best thing about him is the way
+							he balances both academics and extra-curriculars. "	</h3>
+                      <p class="people">
+                        U A Deshpande - H.O.D Computer Science and Engineering, VNIT 
+                      </p>
+                    </div>
+                  </div>
+                  <div class="list-testimonial">
+                    <div class="content-testimonial">
+                      <h3 class="testi">
+                        “ In one word he is a multi-tasker. Not good for him always though, but till now, he has never put himself in trouble. 
+						It was a wonderful experience mentoring him. "</h3>
+                      <p class="people">
+                        Akshay Bhawsar - Student Mentor (CSE,  GRAD '17)
+                      </p>
+                    </div>
+                  </div>
+                  <div class="list-testimonial">
+                    <div class="content-testimonial">
+                      <h3 class="testi">
+                        “ He's always been a curious kid. His approach and perspective towards things has always stunned me. "
+							</h3>
+                      <p class="people">
+                        Shrinivas N S - Father
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="mask-testimonial"></div>
+        </section>
+        <!--/.TESTMONIAL END-->
+
+
        
 
         <!--CONTACT-->
